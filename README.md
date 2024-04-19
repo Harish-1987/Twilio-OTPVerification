@@ -1,3 +1,5 @@
+Send OTP on registered phone number and verify sent OTP.
+
 STEP 1: go to src-> main -> resources -> create application.properties file and paste following details
 
 
